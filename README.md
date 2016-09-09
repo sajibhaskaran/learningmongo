@@ -1,4 +1,3 @@
 # learningmongo
-trying to learn mongodb
-hello 
+Learning MongoDB and Mongoose
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
